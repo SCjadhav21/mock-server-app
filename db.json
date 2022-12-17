@@ -1,0 +1,1614 @@
+{
+   "kindmealRecipes": [
+        {
+          "id": 1,
+          "channel": "KindMealChef",
+          "name": "Handy Zing Chopped Salad",
+          "followers": 14,
+          "img": "https://www.kindmeal.my/photos/recipe/107/107615-16264-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/0/6-c.jpg",
+          "time": "10 Mins",
+          "servings": 2,
+          "rating": "",
+          "ingredients": [
+            "4 celery ribs, chopped",
+            "1 medium red onion, chopped",
+            "1/2 cup carrot, chopped",
+            "1 medium tomato, chopped (any variety, i personally prefer roma)",
+            "1/4 cup yellow mustard",
+            "1/4 cup miracle whip light",
+            "1/2 tablespoon red wine vinegar"
+          ],
+          "directions": [
+            "Mix all vegetables together in a large serving bowl.",
+            "Stir in mustard, miracle whip and vinegar.",
+            "Toss to combine all ingredients.",
+            "Place bowl in refrigerator and chill before serving.",
+            "It's a good idea to adjust proportions of dressing (eg. more or less miracle whip) according to personal preferences.",
+            "Also, try experimenting using different types of vinegar (eg balsamic), mustard (eg. dijon)."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/107/107615-16261-s.jpg",
+            "https://www.kindmeal.my/photos/recipe/107/107615-16262-s.jpg",
+            "https://www.kindmeal.my/photos/recipe/107/107615-16263-s.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_advertising-1100x280.png"
+        },
+        {
+          "id": 2,
+          "channel": "MayNg",
+          "name": "Vegetarian VFC",
+          "followers": 30,
+          "img": "https://www.kindmeal.my/photos/recipe/1000/1000009-19416-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/14/14169-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/14/14169-c.jpg",
+          "time": "1 Hr",
+          "servings": "Depends",
+          "rating": 6,
+          "ingredients": [
+            "1) King Oyster Mushrooms",
+            "2) Light Soya Sauce",
+            "3) Sesame Oil",
+            "4) Italian Herbs",
+            "5) Parsley",
+            "6) Chilli pepper",
+            "7) Black Pepper",
+            "8) Salt"
+          ],
+          "directions": [
+            "Please see video for steps"
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/1000/1000011-19418-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/87/87390-11247-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/123/123054-19131-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_janegoodall_message.jpg"
+        },
+        {
+          "id": 3,
+          "channel": "BluePenguin",
+          "name": "The Rock",
+          "followers": 63,
+          "img": "https://www.kindmeal.my/photos/recipe/1000/1000006-19412-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/11/11401-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/11/11401-c.jpg",
+          "time": "1 Hr",
+          "servings": "2 Servings",
+          "rating": 2,
+          "ingredients": [
+            "1 Cup Sunflower Seeds",
+            "1/2 Cup Rolled Oats",
+            "3 TB Flax seeds",
+            "250g Tempeh",
+            "1 Cup Whole Wheat Bread Flour",
+            "1/2 Cup Water",
+            "1-2 TB Soy Sauce",
+            "1 tsp Cayenne Pepper",
+            " 1/2 tsp Nutmeg",
+            "1/2 tsp Cinnamon",
+            "1/2 tsp Mustard powder",
+            "1/2 tsp Cardamom (opt)",
+            "Dash of Pepper",
+            "Red Palm Oil (for frying) "
+          ],
+          "directions": [
+            "Pour sunflower seeds, rolled oats into a food processor or grinder till coarsely crushed.",
+            "Pour into a bowl and add flax seeds. Mix well and set aside.",
+            "Cut the Tempeh into bite sized chunks with dimensions about 3 x 1 x 1 cm. (any shape will do) Set aside.",
+            "Into a mixing bowl, add Bread flour, water, soy sauce, cayenne pepper, nutmeg, cinnamon, mustard powder, cardamom and pepper (as much as you like) . Mix till a wet batter is formed. Add water if too sticky and dough-like; add flour if too watery.",
+            "Into a saucepan, add enough red palm oil for frying and heat it until suitable temperature for deep frying.",
+            "Meanwhile, pour all the tempeh into the batter for coating.",
+            "Use a chopstick to pick the battered tempeh individually and coat them with the mix seeds.",
+            "Place the coated tempeh into the oil for deep fry till golden brown. (the lighter the better for health)",
+            "Best served with your favourite sauce. (e.g. sambal, sirarcha, thai sauce or guacamole).",
+            "Psst! Feel free to adjust or adapt the recipe accordingly. Variation : Toss the Flying Tempehs in Curry spice blend and deep fried curry leaves."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/1000/1000007-19413-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/1000/1000013-19421-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/103/103415-15291-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/banner_recipe.jpg"
+        },
+        {
+          "id": 4,
+          "channel": "MyWeekendPlan",
+          "name": "Hokkaido Cheese Tart",
+          "followers": 0,
+          "img": "https://www.kindmeal.my/photos/recipe/1039/1039472-58905-m.jpg",
+          "logo": "https://www.kindmeal.my/images/default_male-m.jpg",
+          "banner": "https://www.kindmeal.my/images/default_member_cover-4.jpg",
+          "time": "4 Hrs 30 Mins",
+          "servings": 12,
+          "rating": 0,
+          "ingredients": [
+            "250 g Flour",
+            "125 g Butter",
+            "50 g Sugar",
+            "1 nos Egg yolk",
+            "300 g Cream cheese",
+            "6 g Cornstarch​",
+            "176 ml Cream",
+            "60 g Sugar"
+          ],
+          "directions": [
+            "Rub the butter with flour and sugar.",
+            "Once it become breadcrumb like consistency add the egg yolk.",
+            "Knead until well mixed. Chill the dough for 30 minutes.",
+            "Once chill, press it into the tart mold and Bake it inside 180°C oven until light brown.",
+            "Let it cool completely. Mix cream cheese, cornstarch and sugar together.",
+            "Once mixed add the cream little by little and mix.",
+            "Pipe into the tart and freeze for 4 hours.",
+            "Brush with egg wash and bake in 210°C oven until desired colour."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/MyWeekendPlan/recipe-1039470.htm",
+            "https://www.kindmeal.my/photos/recipe/1039/1039473-58906-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/1039/1039475-58908-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_janegoodall_message.jpg"
+        },
+        {
+          "id": 5,
+          "channel": "Janelle",
+          "name": "Ceasar Dressing",
+          "followers": 0,
+          "img": "https://www.kindmeal.my/photos/recipe/1000/1000012-19420-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/20/20322-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/20/20322-c.jpg",
+          "time": "20 Mins",
+          "servings": "Large Cereal Storer",
+          "rating": 0,
+          "ingredients": [
+            "3nos Shallot",
+            "3nos Yellow onion",
+            "1 small bowl Garlic",
+            "1 tap Mayonnaise",
+            "1 small bowl of Parmesan cheese",
+            "6 Lemon (squeeze)",
+            "2 Anchovy fillets",
+            "1 small bowl Water (if dressing thick)"
+          ],
+          "directions": [
+            "Shallot and yellow onion rough chop",
+            "Put everything except for the water in the blender or food processor fitted with a steel blade and put the top on tightly. Turn the machine on and process until it looks thoroughly combined.",
+            "Pour into the container, cover and refrigerate"
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/97/97611-13808-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/112/112677-17350-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/116/116933-18166-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/banner_directory.jpg"
+        },
+        {
+          "id": 6,
+          "channel": "EvnadhamEvnadham",
+          "name": "EASY 10 Minute Dinner Recipes",
+          "followers": 0,
+          "img": "https://www.kindmeal.my/photos/recipe/1039/1039465-58896-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/40/40177-m.jpg",
+          "banner": "https://www.kindmeal.my/images/default_member_cover-2.jpg",
+          "time": "11 Mins",
+          "servings": "1 Pot",
+          "rating": 0,
+          "ingredients": [
+            "1 tablespoon extra virgin olive oil",
+            "½ cup diced red onions",
+            "1 clove garlic minced",
+            "1 inch ginger grated",
+            "1 tablespoon curry powder",
+            "1 teaspoon ground coriander",
+            "¼ teaspoon ground cumin",
+            "¼ teaspoon paprika",
+            "¼ teaspoon chili powder optional",
+            "1 can 19 oz/540ml chickpeas, drained and rinsed",
+            "1 ½ cups diced tomatoes",
+            "1 cup canned full fat coconut milk",
+            "Sea salt and pepper to taste",
+            "2 handfuls of fresh baby spinach",
+            "Garnish: fresh cilantro "
+          ],
+          "directions": [
+            "Heat the olive oil in a large skillet over medium-high heat. Sauté the onions for 1 minute. Add the garlic and ginger and sauté for another minute.",
+            "Toss in the curry powder, coriander, cumin, paprika and chili if using. Stir and sauté for 30 seconds.",
+            "Add the chickpeas, diced tomatoes, coconut milk and stir. Bring to a boil and cook for 5 minutes, stirring often.",
+            "Season with salt and pepper to taste and toss in the spinach. Stir and cook for another minute.",
+            "Garnish with fresh cilantro. Serve on it’s own or with cooked quinoa or brown rice.",
+            "Store any leftovers in an airtight container in the fridge for up to 5 days."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/1039/1039464-58895-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/100/100921-14661-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/113/113525-17486-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/banner_directory.jpg"
+        },
+        {
+          "id": 7,
+          "channel": "MyWeekendPlan",
+          "name": "Peanut Butter Cups",
+          "followers": 0,
+          "img": "https://www.kindmeal.my/photos/recipe/1039/1039477-58910-m.jpg",
+          "logo": "https://www.kindmeal.my/images/default_male-m.jpg",
+          "banner": "https://www.kindmeal.my/images/default_member_cover-5.jpg",
+          "time": "1 Hr",
+          "servings": "6 Cups",
+          "rating": 0,
+          "ingredients": [
+            "3 tbsp Powdered sugar (sifted)",
+            "120 g Creamy peanut butter",
+            "170 g Chocolate (melted)"
+          ],
+          "directions": [
+            "Prepare a cupcake tin with 6 liners.",
+            "Stir peanut butter and powdered sugar together until smooth.",
+            "Spread 1 to 2 tablespoons of chocolate in the bottom of each cupcake liner.",
+            "Dollop 1 to 2 teaspoons of the peanut butter mixture on top of the chocolate.",
+            "Cover each dollop of peanut butter with more chocolate and smooth out the top.",
+            "Refrigerate for 1 hour or until chocolate has hardened.",
+            " Remove peanut butter cups from the liners.",
+            "Enjoy!"
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/1039/1039467-58898-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/1039/1039475-58908-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/112/112289-17288-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_janegoodall_message.jpg"
+        },
+        {
+          "id": 8,
+          "channel": "BluePenguin",
+          "name": "Pitaya Adzuki Nice Cream Smoothie Bowl",
+          "followers": 63,
+          "img": "https://www.kindmeal.my/photos/recipe/1000/1000013-19421-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/11/11401-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/11/11401-c.jpg",
+          "time": "30 Mins",
+          "servings": "1 Bowl",
+          "rating": 0,
+          "ingredients": [
+            "1/2 Avocado",
+            "1 Medium Frozen Bananas",
+            "3 TB Vanilla Soy Isolate Protein Powder",
+            "1/4 Psyllium Husk",
+            "1/4 Large Red-Flesh Pitaya Fruit",
+            "(Toppings)1 TB Adzuki beans (cooked)",
+            "(Toppings)4 halves Pecan",
+            "(Toppings)2 halves Walnut",
+            "(Toppings)2 Pitaya balls",
+            "(Toppings)2 tsp Chia seeds",
+            "(Toppings)2 Small Strawberries"
+          ],
+          "directions": [
+            "Dump everything to blend into a high power blender and top them off with any toppings you'd like:"
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/1000/1000008-19415-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/1000/1000007-19413-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/105/105586-15796-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_advertising-1100x280.png"
+        },
+        {
+          "id": 9,
+          "channel": "MyWeekendPlan",
+          "name": "Banana Cake",
+          "followers": 0,
+          "img": "https://www.kindmeal.my/photos/recipe/1039/1039471-58904-m.jpg",
+          "logo": "https://www.kindmeal.my/images/default_male-m.jpg",
+          "banner": "https://www.kindmeal.my/images/default_member_cover-5.jpg",
+          "time": "55 Mins",
+          "servings": "6 People",
+          "rating": 0,
+          "ingredients": [
+            "300 g Banana",
+            "3 nos Eggs",
+            "35 g Oil",
+            "125 g Flour",
+            "1 tsp Baking Powder",
+            "Pinch Baking Soda",
+            "30 g Sugar",
+            "1/2 tsp Salt"
+          ],
+          "directions": [
+            "Mash banana into lumpy paste.",
+            "Add eggs and oil and stir until well mixed.",
+            "Sift the dry ingredients and add it into the banana batter little by little.",
+            "Mix until fully incorporated.",
+            "Transfer it into a baking mold and bake it in 180c oven for 35 minutes"
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/1039/1039472-58905-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/1039/1039467-58898-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/1039/1039473-58906-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/photos/shop/6/626-4817-m.jpg"
+        },
+        {
+          "id": 10,
+          "channel": "XianKy",
+          "name": "Avocado Chocolate Quinoa",
+          "followers": 1,
+          "img": "https://www.kindmeal.my/photos/recipe/1000/1000010-19417-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/10/10639-m.jpg",
+          "banner": "https://www.kindmeal.my/images/default_member_cover-5.jpg",
+          "time": "30 Mins",
+          "servings": "1 Bowl",
+          "rating": 1,
+          "ingredients": [
+            "Quinoa",
+            "Cocoa powder (optional)",
+            "Manuka honey/ maple syrup",
+            "Avocado/any fruits of your choice"
+          ],
+          "directions": [
+            "Soak quinoa 10 mins",
+            "Rinse and boil quinoa with water add with one tbs cocoa powder",
+            "15mins later or until the water dried out and quinoa is ready to serve.",
+            "Let it cold for few mins and add in maple syrup or honey of your choice in quinoa",
+            "Serve with sliced avocado "
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/99/99178-14220-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/103/103594-15343-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/101/101233-14719-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_advertising-1100x280.png"
+        },
+        {
+          "id": 11,
+          "channel": "ismah",
+          "name": "BRINJAL CURRY",
+          "followers": 0,
+          "img": "https://www.kindmeal.my/photos/recipe/1039/1039466-58897-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/40/40202-m.jpg",
+          "banner": "https://www.kindmeal.my/images/default_member_cover-3.jpg",
+          "time": "11 Mins",
+          "servings": "To All",
+          "rating": 0,
+          "ingredients": [
+            "Vegetarian"
+          ],
+          "directions": [
+            "Ennai kaththirikkai"
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/103/103676-15358-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/103/103415-15291-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/109/109154-16573-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/banner_recipe.jpg"
+        },
+        {
+          "id": 12,
+          "channel": "MyWeekendPlan",
+          "name": "Oreo Egg Tart",
+          "followers": 0,
+          "img": "https://www.kindmeal.my/photos/recipe/1039/1039473-58906-m.jpg",
+          "logo": "https://www.kindmeal.my/images/default_male-m.jpg",
+          "banner": "https://www.kindmeal.my/images/default_member_cover-1.jpg",
+          "time": "45 Mins",
+          "servings": "6 People",
+          "rating": 0,
+          "ingredients": [
+            "150 g Whipping cream",
+            "40 g Butter",
+            "20 g White sugar",
+            "1 pack Oreo cookies",
+            "Mango (Appropriate amount)"
+          ],
+          "directions": [
+            "Remove the oreo cream and crush the oreo cookies only until finely crushed.",
+            "Heat the butter and mix the crushed oreo cookies with the butter.",
+            "Put a layer of plastic wrap on the mold. Scoop the Oreo mixture into the mold, and firmly press it down evenly.",
+            "Keep in the refrigerator for 1 hour.",
+            "Add whipping cream and sugar and beat it well.",
+            "Pour the whipping cream in a piping bag, then cut a hole in the bottom corner of the bag.",
+            "Squeeze the cream in the middle of the oreo tart.",
+            "Cut mango into pieces and place it on top for decoration."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/1039/1039470-58903-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/1039/1039467-58898-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/110/110310-16785-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_advertising-1100x280.png"
+        },
+        {
+          "id": 13,
+          "channel": "BluePenguin",
+          "name": "Chickpea Cakes",
+          "followers": 63,
+          "img": "https://www.kindmeal.my/photos/recipe/1000/1000007-19413-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/11/11401-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/11/11401-c.jpg",
+          "time": "2 Hrs",
+          "servings": "18-20 Cakes",
+          "rating": 2,
+          "ingredients": [
+            "1 Cup Organic Chickpeas (Soaked)",
+            "1 Med. Onion",
+            "1 Med. Carrot",
+            "1 Med. Tomato",
+            "1 Pkt Tempeh (250g)",
+            "1 TB Minced Garlic",
+            "1 TB Minced Ginger",
+            "2 Cups Rolled Oats",
+            "1 Cup Unbleached All Purpose Flour",
+            "1/4 Cup Tamari Sauce/Soy Sauce",
+            "1-2 TB Dried Thyme",
+            "1-3 TB Paprika Powder",
+            "1 TB White/Black Pepper",
+            "1/4 Cup Oil for Frying"
+          ],
+          "directions": [
+            "Boil chickpeas in water for about 20 minutes or until soft. Wait to cool.",
+            "In a food processor, process till minced-like texture. Put aside.",
+            "While waiting, clean carrots, onion and tomato, chop all of these into small cubes.",
+            "Cut tempeh into cubes of about 1 x 1 x 1 cm.",
+            "Heat the saucepan with 1 tsp of oil. Add minced garlic and ginger, fry till fragrant.",
+            "Turn to medium heat. Add chopped carrots, onions till soft and add tomato last.",
+            "After most of the water evaporates, remove from heat.",
+            "Mince cooked carrot, onions, tomatoes with 1 cup oats in a food processor.",
+            "Add all minced chickpeas, carrots, onions, tomato, flour, remaining oats, seasonings, herbs into the same saucepan.",
+            "Mix mixture until a loose but firm dough forms.",
+            "Form cakes of about 5cm diameter and 1 cm thickness.",
+            "Heat a frying pan with 2 tsp of oil. Pan fry till the surface turns golden brown and crisp.",
+            "Best to serve warm/hot with cold Sauce or Dips of your liking."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/1000/1000013-19421-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/1000/1000008-19415-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/110/110882-16941-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_janegoodall_message.jpg"
+        },
+        {
+          "id": 14,
+          "channel": "Chocolate",
+          "name": "Lava Cake Recipe",
+          "followers": 1,
+          "img": "https://www.kindmeal.my/photos/recipe/1039/1039454-58882-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/38/38661-m.jpg",
+          "banner": "https://www.kindmeal.my/images/default_member_cover-3.jpg",
+          "time": "30 Mins",
+          "servings": 5,
+          "rating": 0,
+          "ingredients": [
+            "6 ounces (170g) Milk Chocolate Salted CaramelTablet",
+            "1/2 cup (115g; 1 stick) unsalted butter",
+            "1/4 cup (31g) all-purpose flour (spoon & leveled)",
+            "1/2 cup (60g) confectioners’ sugar",
+            "1/8 teaspoon salt",
+            "2 large eggs",
+            "2 large egg yolks"
+          ],
+          "directions": [
+            " • Spray four 6 ounce ramekin with nonstick",
+            "Cooking spray and dust with cocoa powder",
+            "• Preheat oven to 425°F (218°C).",
+            "• Coarsely chop the chocolate.",
+            "• Place butter into a medium heat-proof bowl, then",
+            "Add chopped chocolate on top. Microwave on",
+            "High in 10 second increments, stirring after each",
+            "Until completely smooth. Set aside.",
+            "• Whisk the flour, confectioners’ sugar, and salt",
+            "Together in a small bowl. Whisk the eggs and",
+            "Egg yolks together until combined in another",
+            "Small bowl. Pour the flour mixture and eggs into",
+            "The bowl of chocolate. Slowly stir everything",
+            "Together using a rubber spatula or wooden",
+            "Spoon. If there are any lumps, gently use your",
+            "Whisk to rid them. The batter will be slightly",
+            "Thick.",
+            " Spoon chocolate batter evenly into each",
+            "Prepared ramekin or muffin cup.",
+            "• Place ramekins onto a baking sheet and bake for",
+            "12-14 minutes until the sides appear solid and",
+            "Firm– the tops will still look soft. *If baking in a",
+            "Muffin pan, the cakes only take about 8-10",
+            "Minutes.",
+            "• Allow to cool for 1 minute, then cover each with",
+            "An inverted plate and turn over. Use an oven mitt",
+            "Should release easily from the ramekin. *If you",
+            "Used a muffin pan, use a spoon to release the",
+            "Cakes from the pan and place each upside down On plates."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/124/124243-19323-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/112/112388-17306-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/115/115727-17899-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_advertising-1100x280.png"
+        },
+        {
+          "id": 15,
+          "channel": "FoodLover398",
+          "name": "How To Make One Pan Egg Toast",
+          "followers": 0,
+          "img": "https://www.kindmeal.my/photos/recipe/1039/1039461-58890-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/39/39951-m.jpg",
+          "banner": "https://www.kindmeal.my/images/default_member_cover-3.jpg",
+          "time": "3 Mins",
+          "servings": 1,
+          "rating": 0,
+          "ingredients": [
+            " -Unscrew 2 eggs",
+            "-toast",
+            "- strawberry jam and cheese"
+          ],
+          "directions": [
+            "-Unscrew 2 eggs",
+            "-heat the pan, and pour it out (I'll use only low heat!)",
+            "-Put the half-cut bread and turn it over",
+            "-When the egg is cooked, flip it over!",
+            "-Fold the protruding egg well and add the strawberry jam and cheese",
+            "-And when you fold it in half, it's finished",
+            "I put cheese and strawberry jam in it, but it's good if you add something else to suit your taste."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/1039/1039462-58891-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/97/97434-13753-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/85/85108-10670-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/banner_recipe.jpg"
+        },
+        {
+          "id": 16,
+          "channel": "shamanth",
+          "name": "Veg Fried Noodles",
+          "followers": 0,
+          "img": "https://www.kindmeal.my/photos/recipe/1039/1039453-58877-m.jpg",
+          "logo": "https://kindmeal.my/shamanth",
+          "banner": "https://www.kindmeal.my/images/default_member_cover-1.jpg",
+          "time": "30 Mins",
+          "servings": 5,
+          "rating": 1,
+          "ingredients": [
+            "1 kg floor",
+            "vegetables"
+          ],
+          "directions": [
+            "Heat oil bring the noodles to sautee add vegetables and serve hot"
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/89/89852-11813-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/76/76008-8613-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/16/16436-958-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_janegoodall_message.jpg"
+        },
+        {
+          "id": 17,
+          "channel": "KindMealChef",
+          "name": "Raspberry Oatmeal Squares",
+          "followers": 14,
+          "img": "https://www.kindmeal.my/photos/recipe/118/118753-18534-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/0/6-c.jpg",
+          "time": "45 Mins",
+          "servings": "20-24",
+          "rating": 0,
+          "ingredients": [
+            "1 1/2 cups oatmeal",
+            "1 3/4 cups flour",
+            "1/2 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "1 cup walnut pieces",
+            "1 cup brown sugar",
+            "1 teaspoon cinnamon",
+            "1 cup butter, melted",
+            "Raspberry jam"
+          ],
+          "directions": [
+            "Mix all ingredients, except jam, well, in order given.",
+            "Put 1/2 the mixture on bottom of greased 9 'x13'x2' pan. Spread with raspberry jam. Crumble the remaining oatmeal mixture over top of jam.",
+            "Bake at 325 for 30 minutes or until done."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/80/80542-9603-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/98/98921-14138-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/115/115102-17770-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/photos/shop/2/219-957-m.jpg"
+        },
+        {
+          "id": 18,
+          "channel": "KindMealChef",
+          "name": "Classic Crisco Single Crust",
+          "followers": 14,
+          "img": "https://www.kindmeal.my/photos/recipe/117/117229-18230-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/0/6-c.jpg",
+          "time": "35 Mins",
+          "servings": "1 Pie Crust",
+          "rating": 0,
+          "ingredients": [
+            "1 1/3 cups sifted all-purpose flour",
+            "1/2 teaspoon salt",
+            "1/2 cup crisco shortening",
+            "3 tablespoons cold water"
+          ],
+          "directions": [
+            "Spoon flour into measuring cup and level.",
+            "Combine flour and salt in medium bowl.",
+            "Cut in shortening using pastry blender or 2 knives until all flour is blended to form pea-size chunks.",
+            "Sprinkle with water,",
+            "1 tablespoon at a time.",
+            "Toss lightly with fork until dough forms a ball.",
+            "Press dough between hands to form 5- to 6-inchpancake.",
+            "Flour rolling surface and rolling pin lightly Roll dough into circle.",
+            "Trim circle 1 inch larger than upside-down pie plate.",
+            "Carefully remove trimmed dough.",
+            "Set aside to reroll and use for pastry cutout garnish, if desired.",
+            "Fold dough into quarters.",
+            "Unfold and press into pie plate.",
+            "Fold edge under.",
+            "Flute.",
+            "For recipes using a baked pie crust, heat oven to 425°F.",
+            "Prick bottom and side thoroughly with fork (50 times) to prevent shrinkage.",
+            "Bake at 425°F for 10 to 15 minutes or until lightly browned.",
+            "For recipes using an unbaked pie crust, follow directions given for that recipe."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/106/106663-16093-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/119/119518-18654-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/109/109990-16724-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_janegoodall_message.jpg"
+        },
+        {
+          "id": 19,
+          "channel": "KindMealChef",
+          "name": "Herb Butter For Poultry",
+          "followers": 14,
+          "img": "https://www.kindmeal.my/photos/recipe/107/107237-16199-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/0/6-c.jpg",
+          "time": "3 Mins",
+          "servings": 8,
+          "rating": 0,
+          "ingredients": [
+            "1/2 cup butter , softened to room temperature",
+            "2 teaspoons soy sauce",
+            "2 teaspoons fresh parsley , chopped fine",
+            "1/2 teaspoon garlic powder",
+            "1/2 teaspoon dried thyme",
+            "1/2 teaspoon dried rosemary",
+            "1/4 teaspoon rubbed sage"
+          ],
+          "directions": [
+            "In a bowl, Beat to combine all ingredients well.",
+            "You can use just about anything to mold butter to desired shapes such as using a pastry bag with a large star tip and make rosettes (about 1 Tbsp each) onto a parchment lined baking sheet, or you can fill candy molds for different themes. Place in freezer until firm.",
+            "Unmold and place butter pats into a ziploc bag. Store in freezer."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/121/121344-18755-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/101/101830-14898-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/31/31254-2640-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/banner_recipe.jpg"
+        },
+        {
+          "id": 20,
+          "channel": "KindMealChef",
+          "name": "Crostini Al Mascarpone",
+          "followers": 14,
+          "img": "https://www.kindmeal.my/photos/recipe/103/103391-15283-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/0/6-c.jpg",
+          "time": "15 Mins",
+          "servings": 10,
+          "rating": 0,
+          "ingredients": [
+            "1 1/2 cups mascarpone cheese",
+            "1/4-1/2 cup freshly grated parmesan cheese (to taste)",
+            "3 pinches marjoram (to taste)",
+            "Salt (to taste)",
+            "Pepper (to taste)",
+            "1 -2 french baguette"
+          ],
+          "directions": [
+            "Preheat oven to 400.",
+            "Mix cheeses and add marjoram. Salt and pepper to taste.",
+            "Slice baguette in thin (about 1/2 inch) slices.",
+            "Spread cheese mixture on slices.",
+            "Place prepared slices on a baking sheet and put sheet into preheated oven.",
+            "Bake for a few minutes until hot an bubbly. Watch closely--don't let the bread get too brown.",
+            "Bon Appétit!"
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/111/111634-17122-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/109/109063-16556-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/99/99115-14209-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/banner_directory.jpg"
+        },
+        {
+          "id": 21,
+          "channel": "KindMealChef",
+          "name": "Berks County Bread Machine Pizza Crust",
+          "followers": 14,
+          "img": "https://www.kindmeal.my/photos/recipe/86/86164-10907-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/0/6-c.jpg",
+          "time": "5 Mins",
+          "servings": "2 Crusts",
+          "rating": 0,
+          "ingredients": [
+            "1 1/3 cups water",
+            "2 tablespoons olive oil",
+            "4 cups flour",
+            "1 teaspoon salt",
+            "2 teaspoons active dry yeast"
+          ],
+          "directions": [
+            "Add the ingredients to the bread machine in the order given by the manufacturer (liquids first, followed by drys, and finally yeast).",
+            "Process on the 'dough' cycle for 1 1/2 hours then turn out onto a floured surface.",
+            "Divide into (2) equal sized dough balls. Knead each ball in your hands for a few minutes, then set under a towel for 15-20 minutes to rest.",
+            "Stretch or roll each dough ball seperately into a 14-inch circle, and prebake on a lightly oiled pizza pan, or cornmeal dusted pizza stone for approximately 5 minutes in a 375 degree oven.",
+            "Refrigerate crusts up to a week. Freeze for even longer if necessary."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/93/93771-12767-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/107/107569-16259-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/78/78324-9096-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_advertising-1100x280.png"
+        },
+        {
+          "id": 22,
+          "channel": "KindMealChef",
+          "name": "Berks County Bread Machine Pizza Crust",
+          "followers": 14,
+          "img": "https://www.kindmeal.my/photos/recipe/71/71603-7750-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/0/6-c.jpg",
+          "time": "1 Hr 30 Mins",
+          "servings": "1 Quart M..",
+          "rating": 0,
+          "ingredients": [
+            "2 tablespoons chopped onions",
+            "1 1/2 tablespoons minced garlic",
+            "1/2 cup cider vinegar",
+            "1 1/2 tablespoons dry mustard",
+            "3/4 teaspoon white pepper",
+            "3/4 teaspoon garlic powder",
+            "1/3 cup sugar",
+            "1 1/2 tablespoons salt",
+            "2 1/2 cups vegetable oil",
+            "3/4 cup additional cider vinegar",
+            "4 teaspoons basil",
+            "1 1/2 teaspoons oregano",
+            "3/4 teaspoon rosemary",
+            "1/4 teaspoon tarragon",
+            "1/2 teaspoon thyme",
+            "2 tablespoons granulated onion",
+            "4 tablespoons black pepper",
+            "2 tablespoons salt",
+            "3/4 teaspoon seasoning salt",
+            "1 cup cold water"
+          ],
+          "directions": [
+            " For marinade base, place the onions, garlic and 1/2 cup cider vinegar in a blender and puree. Place puree in mixing bowl. Add the mustard, white pepper, garlic power, sugar & salt. Beat in oil with mixer at medium speed, then gradually add the additional 3/4 cup vinegar, mixing thoroughly.",
+            "To the base add the marinade spices and water. Blend thoroughly. Makes about 1 quart, enough for 2-2 pound chickens.",
+            "To cook, immerse split chicken or chicken parts briefly in the marinade (about 20 minutes, but I have marinaded over night too) Place chicken on sheet pan and bake in 350 degree oven. 1 chicken split will take 1 to 1 1/2 hours. Chicken parts will take 45 minutes to 1 hour."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/96/96421-13472-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/76/76008-8613-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/48/48260-5093-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_advertising-1100x280.png"
+        },
+        {
+          "id": 1,
+          "channel": "KindMealChef",
+          "name": "Handy Zing Chopped Salad",
+          "followers": 14,
+          "img": "https://www.kindmeal.my/photos/recipe/107/107615-16264-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/0/6-c.jpg",
+          "time": "10 Mins",
+          "servings": 2,
+          "rating": "",
+          "ingredients": [
+            "4 celery ribs, chopped",
+            "1 medium red onion, chopped",
+            "1/2 cup carrot, chopped",
+            "1 medium tomato, chopped (any variety, i personally prefer roma)",
+            "1/4 cup yellow mustard",
+            "1/4 cup miracle whip light",
+            "1/2 tablespoon red wine vinegar"
+          ],
+          "directions": [
+            "Mix all vegetables together in a large serving bowl.",
+            "Stir in mustard, miracle whip and vinegar.",
+            "Toss to combine all ingredients.",
+            "Place bowl in refrigerator and chill before serving.",
+            "It's a good idea to adjust proportions of dressing (eg. more or less miracle whip) according to personal preferences.",
+            "Also, try experimenting using different types of vinegar (eg balsamic), mustard (eg. dijon)."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/107/107615-16261-s.jpg",
+            "https://www.kindmeal.my/photos/recipe/107/107615-16262-s.jpg",
+            "https://www.kindmeal.my/photos/recipe/107/107615-16263-s.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_advertising-1100x280.png"
+        },
+        {
+          "id": 2,
+          "channel": "MayNg",
+          "name": "Vegetarian VFC",
+          "followers": 30,
+          "img": "https://www.kindmeal.my/photos/recipe/1000/1000009-19416-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/14/14169-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/14/14169-c.jpg",
+          "time": "1 Hr",
+          "servings": "Depends",
+          "rating": 6,
+          "ingredients": [
+            "1) King Oyster Mushrooms",
+            "2) Light Soya Sauce",
+            "3) Sesame Oil",
+            "4) Italian Herbs",
+            "5) Parsley",
+            "6) Chilli pepper",
+            "7) Black Pepper",
+            "8) Salt"
+          ],
+          "directions": [
+            "Please see video for steps"
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/1000/1000011-19418-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/87/87390-11247-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/123/123054-19131-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_janegoodall_message.jpg"
+        },
+        {
+          "id": 3,
+          "channel": "BluePenguin",
+          "name": "The Rock",
+          "followers": 63,
+          "img": "https://www.kindmeal.my/photos/recipe/1000/1000006-19412-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/11/11401-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/11/11401-c.jpg",
+          "time": "1 Hr",
+          "servings": "2 Servings",
+          "rating": 2,
+          "ingredients": [
+            "1 Cup Sunflower Seeds",
+            "1/2 Cup Rolled Oats",
+            "3 TB Flax seeds",
+            "250g Tempeh",
+            "1 Cup Whole Wheat Bread Flour",
+            "1/2 Cup Water",
+            "1-2 TB Soy Sauce",
+            "1 tsp Cayenne Pepper",
+            " 1/2 tsp Nutmeg",
+            "1/2 tsp Cinnamon",
+            "1/2 tsp Mustard powder",
+            "1/2 tsp Cardamom (opt)",
+            "Dash of Pepper",
+            "Red Palm Oil (for frying) "
+          ],
+          "directions": [
+            "Pour sunflower seeds, rolled oats into a food processor or grinder till coarsely crushed.",
+            "Pour into a bowl and add flax seeds. Mix well and set aside.",
+            "Cut the Tempeh into bite sized chunks with dimensions about 3 x 1 x 1 cm. (any shape will do) Set aside.",
+            "Into a mixing bowl, add Bread flour, water, soy sauce, cayenne pepper, nutmeg, cinnamon, mustard powder, cardamom and pepper (as much as you like) . Mix till a wet batter is formed. Add water if too sticky and dough-like; add flour if too watery.",
+            "Into a saucepan, add enough red palm oil for frying and heat it until suitable temperature for deep frying.",
+            "Meanwhile, pour all the tempeh into the batter for coating.",
+            "Use a chopstick to pick the battered tempeh individually and coat them with the mix seeds.",
+            "Place the coated tempeh into the oil for deep fry till golden brown. (the lighter the better for health)",
+            "Best served with your favourite sauce. (e.g. sambal, sirarcha, thai sauce or guacamole).",
+            "Psst! Feel free to adjust or adapt the recipe accordingly. Variation : Toss the Flying Tempehs in Curry spice blend and deep fried curry leaves."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/1000/1000007-19413-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/1000/1000013-19421-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/103/103415-15291-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/banner_recipe.jpg"
+        },
+        {
+          "id": 4,
+          "channel": "MyWeekendPlan",
+          "name": "Hokkaido Cheese Tart",
+          "followers": 0,
+          "img": "https://www.kindmeal.my/photos/recipe/1039/1039472-58905-m.jpg",
+          "logo": "https://www.kindmeal.my/images/default_male-m.jpg",
+          "banner": "https://www.kindmeal.my/images/default_member_cover-4.jpg",
+          "time": "4 Hrs 30 Mins",
+          "servings": 12,
+          "rating": 0,
+          "ingredients": [
+            "250 g Flour",
+            "125 g Butter",
+            "50 g Sugar",
+            "1 nos Egg yolk",
+            "300 g Cream cheese",
+            "6 g Cornstarch​",
+            "176 ml Cream",
+            "60 g Sugar"
+          ],
+          "directions": [
+            "Rub the butter with flour and sugar.",
+            "Once it become breadcrumb like consistency add the egg yolk.",
+            "Knead until well mixed. Chill the dough for 30 minutes.",
+            "Once chill, press it into the tart mold and Bake it inside 180°C oven until light brown.",
+            "Let it cool completely. Mix cream cheese, cornstarch and sugar together.",
+            "Once mixed add the cream little by little and mix.",
+            "Pipe into the tart and freeze for 4 hours.",
+            "Brush with egg wash and bake in 210°C oven until desired colour."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/MyWeekendPlan/recipe-1039470.htm",
+            "https://www.kindmeal.my/photos/recipe/1039/1039473-58906-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/1039/1039475-58908-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_janegoodall_message.jpg"
+        },
+        {
+          "id": 5,
+          "channel": "Janelle",
+          "name": "Ceasar Dressing",
+          "followers": 0,
+          "img": "https://www.kindmeal.my/photos/recipe/1000/1000012-19420-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/20/20322-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/20/20322-c.jpg",
+          "time": "20 Mins",
+          "servings": "Large Cereal Storer",
+          "rating": 0,
+          "ingredients": [
+            "3nos Shallot",
+            "3nos Yellow onion",
+            "1 small bowl Garlic",
+            "1 tap Mayonnaise",
+            "1 small bowl of Parmesan cheese",
+            "6 Lemon (squeeze)",
+            "2 Anchovy fillets",
+            "1 small bowl Water (if dressing thick)"
+          ],
+          "directions": [
+            "Shallot and yellow onion rough chop",
+            "Put everything except for the water in the blender or food processor fitted with a steel blade and put the top on tightly. Turn the machine on and process until it looks thoroughly combined.",
+            "Pour into the container, cover and refrigerate"
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/97/97611-13808-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/112/112677-17350-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/116/116933-18166-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/banner_directory.jpg"
+        },
+        {
+          "id": 6,
+          "channel": "EvnadhamEvnadham",
+          "name": "EASY 10 Minute Dinner Recipes",
+          "followers": 0,
+          "img": "https://www.kindmeal.my/photos/recipe/1039/1039465-58896-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/40/40177-m.jpg",
+          "banner": "https://www.kindmeal.my/images/default_member_cover-2.jpg",
+          "time": "11 Mins",
+          "servings": "1 Pot",
+          "rating": 0,
+          "ingredients": [
+            "1 tablespoon extra virgin olive oil",
+            "½ cup diced red onions",
+            "1 clove garlic minced",
+            "1 inch ginger grated",
+            "1 tablespoon curry powder",
+            "1 teaspoon ground coriander",
+            "¼ teaspoon ground cumin",
+            "¼ teaspoon paprika",
+            "¼ teaspoon chili powder optional",
+            "1 can 19 oz/540ml chickpeas, drained and rinsed",
+            "1 ½ cups diced tomatoes",
+            "1 cup canned full fat coconut milk",
+            "Sea salt and pepper to taste",
+            "2 handfuls of fresh baby spinach",
+            "Garnish: fresh cilantro "
+          ],
+          "directions": [
+            "Heat the olive oil in a large skillet over medium-high heat. Sauté the onions for 1 minute. Add the garlic and ginger and sauté for another minute.",
+            "Toss in the curry powder, coriander, cumin, paprika and chili if using. Stir and sauté for 30 seconds.",
+            "Add the chickpeas, diced tomatoes, coconut milk and stir. Bring to a boil and cook for 5 minutes, stirring often.",
+            "Season with salt and pepper to taste and toss in the spinach. Stir and cook for another minute.",
+            "Garnish with fresh cilantro. Serve on it’s own or with cooked quinoa or brown rice.",
+            "Store any leftovers in an airtight container in the fridge for up to 5 days."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/1039/1039464-58895-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/100/100921-14661-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/113/113525-17486-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/banner_directory.jpg"
+        },
+        {
+          "id": 7,
+          "channel": "MyWeekendPlan",
+          "name": "Peanut Butter Cups",
+          "followers": 0,
+          "img": "https://www.kindmeal.my/photos/recipe/1039/1039477-58910-m.jpg",
+          "logo": "https://www.kindmeal.my/images/default_male-m.jpg",
+          "banner": "https://www.kindmeal.my/images/default_member_cover-5.jpg",
+          "time": "1 Hr",
+          "servings": "6 Cups",
+          "rating": 0,
+          "ingredients": [
+            "3 tbsp Powdered sugar (sifted)",
+            "120 g Creamy peanut butter",
+            "170 g Chocolate (melted)"
+          ],
+          "directions": [
+            "Prepare a cupcake tin with 6 liners.",
+            "Stir peanut butter and powdered sugar together until smooth.",
+            "Spread 1 to 2 tablespoons of chocolate in the bottom of each cupcake liner.",
+            "Dollop 1 to 2 teaspoons of the peanut butter mixture on top of the chocolate.",
+            "Cover each dollop of peanut butter with more chocolate and smooth out the top.",
+            "Refrigerate for 1 hour or until chocolate has hardened.",
+            " Remove peanut butter cups from the liners.",
+            "Enjoy!"
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/1039/1039467-58898-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/1039/1039475-58908-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/112/112289-17288-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_janegoodall_message.jpg"
+        },
+        {
+          "id": 8,
+          "channel": "BluePenguin",
+          "name": "Pitaya Adzuki Nice Cream Smoothie Bowl",
+          "followers": 63,
+          "img": "https://www.kindmeal.my/photos/recipe/1000/1000013-19421-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/11/11401-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/11/11401-c.jpg",
+          "time": "30 Mins",
+          "servings": "1 Bowl",
+          "rating": 0,
+          "ingredients": [
+            "1/2 Avocado",
+            "1 Medium Frozen Bananas",
+            "3 TB Vanilla Soy Isolate Protein Powder",
+            "1/4 Psyllium Husk",
+            "1/4 Large Red-Flesh Pitaya Fruit",
+            "(Toppings)1 TB Adzuki beans (cooked)",
+            "(Toppings)4 halves Pecan",
+            "(Toppings)2 halves Walnut",
+            "(Toppings)2 Pitaya balls",
+            "(Toppings)2 tsp Chia seeds",
+            "(Toppings)2 Small Strawberries"
+          ],
+          "directions": [
+            "Dump everything to blend into a high power blender and top them off with any toppings you'd like:"
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/1000/1000008-19415-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/1000/1000007-19413-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/105/105586-15796-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_advertising-1100x280.png"
+        },
+        {
+          "id": 9,
+          "channel": "MyWeekendPlan",
+          "name": "Banana Cake",
+          "followers": 0,
+          "img": "https://www.kindmeal.my/photos/recipe/1039/1039471-58904-m.jpg",
+          "logo": "https://www.kindmeal.my/images/default_male-m.jpg",
+          "banner": "https://www.kindmeal.my/images/default_member_cover-5.jpg",
+          "time": "55 Mins",
+          "servings": "6 People",
+          "rating": 0,
+          "ingredients": [
+            "300 g Banana",
+            "3 nos Eggs",
+            "35 g Oil",
+            "125 g Flour",
+            "1 tsp Baking Powder",
+            "Pinch Baking Soda",
+            "30 g Sugar",
+            "1/2 tsp Salt"
+          ],
+          "directions": [
+            "Mash banana into lumpy paste.",
+            "Add eggs and oil and stir until well mixed.",
+            "Sift the dry ingredients and add it into the banana batter little by little.",
+            "Mix until fully incorporated.",
+            "Transfer it into a baking mold and bake it in 180c oven for 35 minutes"
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/1039/1039472-58905-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/1039/1039467-58898-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/1039/1039473-58906-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/photos/shop/6/626-4817-m.jpg"
+        },
+        {
+          "id": 10,
+          "channel": "XianKy",
+          "name": "Avocado Chocolate Quinoa",
+          "followers": 1,
+          "img": "https://www.kindmeal.my/photos/recipe/1000/1000010-19417-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/10/10639-m.jpg",
+          "banner": "https://www.kindmeal.my/images/default_member_cover-5.jpg",
+          "time": "30 Mins",
+          "servings": "1 Bowl",
+          "rating": 1,
+          "ingredients": [
+            "Quinoa",
+            "Cocoa powder (optional)",
+            "Manuka honey/ maple syrup",
+            "Avocado/any fruits of your choice"
+          ],
+          "directions": [
+            "Soak quinoa 10 mins",
+            "Rinse and boil quinoa with water add with one tbs cocoa powder",
+            "15mins later or until the water dried out and quinoa is ready to serve.",
+            "Let it cold for few mins and add in maple syrup or honey of your choice in quinoa",
+            "Serve with sliced avocado "
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/99/99178-14220-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/103/103594-15343-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/101/101233-14719-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_advertising-1100x280.png"
+        },
+        {
+          "id": 11,
+          "channel": "ismah",
+          "name": "BRINJAL CURRY",
+          "followers": 0,
+          "img": "https://www.kindmeal.my/photos/recipe/1039/1039466-58897-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/40/40202-m.jpg",
+          "banner": "https://www.kindmeal.my/images/default_member_cover-3.jpg",
+          "time": "11 Mins",
+          "servings": "To All",
+          "rating": 0,
+          "ingredients": [
+            "Vegetarian"
+          ],
+          "directions": [
+            "Ennai kaththirikkai"
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/103/103676-15358-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/103/103415-15291-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/109/109154-16573-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/banner_recipe.jpg"
+        },
+        {
+          "id": 12,
+          "channel": "MyWeekendPlan",
+          "name": "Oreo Egg Tart",
+          "followers": 0,
+          "img": "https://www.kindmeal.my/photos/recipe/1039/1039473-58906-m.jpg",
+          "logo": "https://www.kindmeal.my/images/default_male-m.jpg",
+          "banner": "https://www.kindmeal.my/images/default_member_cover-1.jpg",
+          "time": "45 Mins",
+          "servings": "6 People",
+          "rating": 0,
+          "ingredients": [
+            "150 g Whipping cream",
+            "40 g Butter",
+            "20 g White sugar",
+            "1 pack Oreo cookies",
+            "Mango (Appropriate amount)"
+          ],
+          "directions": [
+            "Remove the oreo cream and crush the oreo cookies only until finely crushed.",
+            "Heat the butter and mix the crushed oreo cookies with the butter.",
+            "Put a layer of plastic wrap on the mold. Scoop the Oreo mixture into the mold, and firmly press it down evenly.",
+            "Keep in the refrigerator for 1 hour.",
+            "Add whipping cream and sugar and beat it well.",
+            "Pour the whipping cream in a piping bag, then cut a hole in the bottom corner of the bag.",
+            "Squeeze the cream in the middle of the oreo tart.",
+            "Cut mango into pieces and place it on top for decoration."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/1039/1039470-58903-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/1039/1039467-58898-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/110/110310-16785-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_advertising-1100x280.png"
+        },
+        {
+          "id": 13,
+          "channel": "BluePenguin",
+          "name": "Chickpea Cakes",
+          "followers": 63,
+          "img": "https://www.kindmeal.my/photos/recipe/1000/1000007-19413-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/11/11401-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/11/11401-c.jpg",
+          "time": "2 Hrs",
+          "servings": "18-20 Cakes",
+          "rating": 2,
+          "ingredients": [
+            "1 Cup Organic Chickpeas (Soaked)",
+            "1 Med. Onion",
+            "1 Med. Carrot",
+            "1 Med. Tomato",
+            "1 Pkt Tempeh (250g)",
+            "1 TB Minced Garlic",
+            "1 TB Minced Ginger",
+            "2 Cups Rolled Oats",
+            "1 Cup Unbleached All Purpose Flour",
+            "1/4 Cup Tamari Sauce/Soy Sauce",
+            "1-2 TB Dried Thyme",
+            "1-3 TB Paprika Powder",
+            "1 TB White/Black Pepper",
+            "1/4 Cup Oil for Frying"
+          ],
+          "directions": [
+            "Boil chickpeas in water for about 20 minutes or until soft. Wait to cool.",
+            "In a food processor, process till minced-like texture. Put aside.",
+            "While waiting, clean carrots, onion and tomato, chop all of these into small cubes.",
+            "Cut tempeh into cubes of about 1 x 1 x 1 cm.",
+            "Heat the saucepan with 1 tsp of oil. Add minced garlic and ginger, fry till fragrant.",
+            "Turn to medium heat. Add chopped carrots, onions till soft and add tomato last.",
+            "After most of the water evaporates, remove from heat.",
+            "Mince cooked carrot, onions, tomatoes with 1 cup oats in a food processor.",
+            "Add all minced chickpeas, carrots, onions, tomato, flour, remaining oats, seasonings, herbs into the same saucepan.",
+            "Mix mixture until a loose but firm dough forms.",
+            "Form cakes of about 5cm diameter and 1 cm thickness.",
+            "Heat a frying pan with 2 tsp of oil. Pan fry till the surface turns golden brown and crisp.",
+            "Best to serve warm/hot with cold Sauce or Dips of your liking."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/1000/1000013-19421-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/1000/1000008-19415-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/110/110882-16941-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_janegoodall_message.jpg"
+        },
+        {
+          "id": 14,
+          "channel": "Chocolate",
+          "name": "Lava Cake Recipe",
+          "followers": 1,
+          "img": "https://www.kindmeal.my/photos/recipe/1039/1039454-58882-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/38/38661-m.jpg",
+          "banner": "https://www.kindmeal.my/images/default_member_cover-3.jpg",
+          "time": "30 Mins",
+          "servings": 5,
+          "rating": 0,
+          "ingredients": [
+            "6 ounces (170g) Milk Chocolate Salted CaramelTablet",
+            "1/2 cup (115g; 1 stick) unsalted butter",
+            "1/4 cup (31g) all-purpose flour (spoon & leveled)",
+            "1/2 cup (60g) confectioners’ sugar",
+            "1/8 teaspoon salt",
+            "2 large eggs",
+            "2 large egg yolks"
+          ],
+          "directions": [
+            " • Spray four 6 ounce ramekin with nonstick",
+            "Cooking spray and dust with cocoa powder",
+            "• Preheat oven to 425°F (218°C).",
+            "• Coarsely chop the chocolate.",
+            "• Place butter into a medium heat-proof bowl, then",
+            "Add chopped chocolate on top. Microwave on",
+            "High in 10 second increments, stirring after each",
+            "Until completely smooth. Set aside.",
+            "• Whisk the flour, confectioners’ sugar, and salt",
+            "Together in a small bowl. Whisk the eggs and",
+            "Egg yolks together until combined in another",
+            "Small bowl. Pour the flour mixture and eggs into",
+            "The bowl of chocolate. Slowly stir everything",
+            "Together using a rubber spatula or wooden",
+            "Spoon. If there are any lumps, gently use your",
+            "Whisk to rid them. The batter will be slightly",
+            "Thick.",
+            " Spoon chocolate batter evenly into each",
+            "Prepared ramekin or muffin cup.",
+            "• Place ramekins onto a baking sheet and bake for",
+            "12-14 minutes until the sides appear solid and",
+            "Firm– the tops will still look soft. *If baking in a",
+            "Muffin pan, the cakes only take about 8-10",
+            "Minutes.",
+            "• Allow to cool for 1 minute, then cover each with",
+            "An inverted plate and turn over. Use an oven mitt",
+            "Should release easily from the ramekin. *If you",
+            "Used a muffin pan, use a spoon to release the",
+            "Cakes from the pan and place each upside down On plates."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/124/124243-19323-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/112/112388-17306-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/115/115727-17899-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_advertising-1100x280.png"
+        },
+        {
+          "id": 15,
+          "channel": "FoodLover398",
+          "name": "How To Make One Pan Egg Toast",
+          "followers": 0,
+          "img": "https://www.kindmeal.my/photos/recipe/1039/1039461-58890-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/39/39951-m.jpg",
+          "banner": "https://www.kindmeal.my/images/default_member_cover-3.jpg",
+          "time": "3 Mins",
+          "servings": 1,
+          "rating": 0,
+          "ingredients": [
+            " -Unscrew 2 eggs",
+            "-toast",
+            "- strawberry jam and cheese"
+          ],
+          "directions": [
+            "-Unscrew 2 eggs",
+            "-heat the pan, and pour it out (I'll use only low heat!)",
+            "-Put the half-cut bread and turn it over",
+            "-When the egg is cooked, flip it over!",
+            "-Fold the protruding egg well and add the strawberry jam and cheese",
+            "-And when you fold it in half, it's finished",
+            "I put cheese and strawberry jam in it, but it's good if you add something else to suit your taste."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/1039/1039462-58891-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/97/97434-13753-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/85/85108-10670-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/banner_recipe.jpg"
+        },
+        {
+          "id": 16,
+          "channel": "shamanth",
+          "name": "Veg Fried Noodles",
+          "followers": 0,
+          "img": "https://www.kindmeal.my/photos/recipe/1039/1039453-58877-m.jpg",
+          "logo": "https://kindmeal.my/shamanth",
+          "banner": "https://www.kindmeal.my/images/default_member_cover-1.jpg",
+          "time": "30 Mins",
+          "servings": 5,
+          "rating": 1,
+          "ingredients": [
+            "1 kg floor",
+            "vegetables"
+          ],
+          "directions": [
+            "Heat oil bring the noodles to sautee add vegetables and serve hot"
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/89/89852-11813-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/76/76008-8613-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/16/16436-958-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_janegoodall_message.jpg"
+        },
+        {
+          "id": 17,
+          "channel": "KindMealChef",
+          "name": "Raspberry Oatmeal Squares",
+          "followers": 14,
+          "img": "https://www.kindmeal.my/photos/recipe/118/118753-18534-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/0/6-c.jpg",
+          "time": "45 Mins",
+          "servings": "20-24",
+          "rating": 0,
+          "ingredients": [
+            "1 1/2 cups oatmeal",
+            "1 3/4 cups flour",
+            "1/2 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "1 cup walnut pieces",
+            "1 cup brown sugar",
+            "1 teaspoon cinnamon",
+            "1 cup butter, melted",
+            "Raspberry jam"
+          ],
+          "directions": [
+            "Mix all ingredients, except jam, well, in order given.",
+            "Put 1/2 the mixture on bottom of greased 9 'x13'x2' pan. Spread with raspberry jam. Crumble the remaining oatmeal mixture over top of jam.",
+            "Bake at 325 for 30 minutes or until done."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/80/80542-9603-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/98/98921-14138-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/115/115102-17770-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/photos/shop/2/219-957-m.jpg"
+        },
+        {
+          "id": 18,
+          "channel": "KindMealChef",
+          "name": "Classic Crisco Single Crust",
+          "followers": 14,
+          "img": "https://www.kindmeal.my/photos/recipe/117/117229-18230-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/0/6-c.jpg",
+          "time": "35 Mins",
+          "servings": "1 Pie Crust",
+          "rating": 0,
+          "ingredients": [
+            "1 1/3 cups sifted all-purpose flour",
+            "1/2 teaspoon salt",
+            "1/2 cup crisco shortening",
+            "3 tablespoons cold water"
+          ],
+          "directions": [
+            "Spoon flour into measuring cup and level.",
+            "Combine flour and salt in medium bowl.",
+            "Cut in shortening using pastry blender or 2 knives until all flour is blended to form pea-size chunks.",
+            "Sprinkle with water,",
+            "1 tablespoon at a time.",
+            "Toss lightly with fork until dough forms a ball.",
+            "Press dough between hands to form 5- to 6-inchpancake.",
+            "Flour rolling surface and rolling pin lightly Roll dough into circle.",
+            "Trim circle 1 inch larger than upside-down pie plate.",
+            "Carefully remove trimmed dough.",
+            "Set aside to reroll and use for pastry cutout garnish, if desired.",
+            "Fold dough into quarters.",
+            "Unfold and press into pie plate.",
+            "Fold edge under.",
+            "Flute.",
+            "For recipes using a baked pie crust, heat oven to 425°F.",
+            "Prick bottom and side thoroughly with fork (50 times) to prevent shrinkage.",
+            "Bake at 425°F for 10 to 15 minutes or until lightly browned.",
+            "For recipes using an unbaked pie crust, follow directions given for that recipe."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/106/106663-16093-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/119/119518-18654-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/109/109990-16724-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_janegoodall_message.jpg"
+        },
+        {
+          "id": 19,
+          "channel": "KindMealChef",
+          "name": "Herb Butter For Poultry",
+          "followers": 14,
+          "img": "https://www.kindmeal.my/photos/recipe/107/107237-16199-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/0/6-c.jpg",
+          "time": "3 Mins",
+          "servings": 8,
+          "rating": 0,
+          "ingredients": [
+            "1/2 cup butter , softened to room temperature",
+            "2 teaspoons soy sauce",
+            "2 teaspoons fresh parsley , chopped fine",
+            "1/2 teaspoon garlic powder",
+            "1/2 teaspoon dried thyme",
+            "1/2 teaspoon dried rosemary",
+            "1/4 teaspoon rubbed sage"
+          ],
+          "directions": [
+            "In a bowl, Beat to combine all ingredients well.",
+            "You can use just about anything to mold butter to desired shapes such as using a pastry bag with a large star tip and make rosettes (about 1 Tbsp each) onto a parchment lined baking sheet, or you can fill candy molds for different themes. Place in freezer until firm.",
+            "Unmold and place butter pats into a ziploc bag. Store in freezer."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/121/121344-18755-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/101/101830-14898-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/31/31254-2640-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/banner_recipe.jpg"
+        },
+        {
+          "id": 20,
+          "channel": "KindMealChef",
+          "name": "Crostini Al Mascarpone",
+          "followers": 14,
+          "img": "https://www.kindmeal.my/photos/recipe/103/103391-15283-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/0/6-c.jpg",
+          "time": "15 Mins",
+          "servings": 10,
+          "rating": 0,
+          "ingredients": [
+            "1 1/2 cups mascarpone cheese",
+            "1/4-1/2 cup freshly grated parmesan cheese (to taste)",
+            "3 pinches marjoram (to taste)",
+            "Salt (to taste)",
+            "Pepper (to taste)",
+            "1 -2 french baguette"
+          ],
+          "directions": [
+            "Preheat oven to 400.",
+            "Mix cheeses and add marjoram. Salt and pepper to taste.",
+            "Slice baguette in thin (about 1/2 inch) slices.",
+            "Spread cheese mixture on slices.",
+            "Place prepared slices on a baking sheet and put sheet into preheated oven.",
+            "Bake for a few minutes until hot an bubbly. Watch closely--don't let the bread get too brown.",
+            "Bon Appétit!"
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/111/111634-17122-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/109/109063-16556-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/99/99115-14209-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/banner_directory.jpg"
+        },
+        {
+          "id": 21,
+          "channel": "KindMealChef",
+          "name": "Berks County Bread Machine Pizza Crust",
+          "followers": 14,
+          "img": "https://www.kindmeal.my/photos/recipe/86/86164-10907-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/0/6-c.jpg",
+          "time": "5 Mins",
+          "servings": "2 Crusts",
+          "rating": 0,
+          "ingredients": [
+            "1 1/3 cups water",
+            "2 tablespoons olive oil",
+            "4 cups flour",
+            "1 teaspoon salt",
+            "2 teaspoons active dry yeast"
+          ],
+          "directions": [
+            "Add the ingredients to the bread machine in the order given by the manufacturer (liquids first, followed by drys, and finally yeast).",
+            "Process on the 'dough' cycle for 1 1/2 hours then turn out onto a floured surface.",
+            "Divide into (2) equal sized dough balls. Knead each ball in your hands for a few minutes, then set under a towel for 15-20 minutes to rest.",
+            "Stretch or roll each dough ball seperately into a 14-inch circle, and prebake on a lightly oiled pizza pan, or cornmeal dusted pizza stone for approximately 5 minutes in a 375 degree oven.",
+            "Refrigerate crusts up to a week. Freeze for even longer if necessary."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/93/93771-12767-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/107/107569-16259-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/78/78324-9096-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_advertising-1100x280.png"
+        },
+        {
+          "id": 22,
+          "channel": "KindMealChef",
+          "name": "Berks County Bread Machine Pizza Crust",
+          "followers": 14,
+          "img": "https://www.kindmeal.my/photos/recipe/71/71603-7750-m.jpg",
+          "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+          "banner": "https://www.kindmeal.my/photos/member/0/6-c.jpg",
+          "time": "1 Hr 30 Mins",
+          "servings": "1 Quart M..",
+          "rating": 0,
+          "ingredients": [
+            "2 tablespoons chopped onions",
+            "1 1/2 tablespoons minced garlic",
+            "1/2 cup cider vinegar",
+            "1 1/2 tablespoons dry mustard",
+            "3/4 teaspoon white pepper",
+            "3/4 teaspoon garlic powder",
+            "1/3 cup sugar",
+            "1 1/2 tablespoons salt",
+            "2 1/2 cups vegetable oil",
+            "3/4 cup additional cider vinegar",
+            "4 teaspoons basil",
+            "1 1/2 teaspoons oregano",
+            "3/4 teaspoon rosemary",
+            "1/4 teaspoon tarragon",
+            "1/2 teaspoon thyme",
+            "2 tablespoons granulated onion",
+            "4 tablespoons black pepper",
+            "2 tablespoons salt",
+            "3/4 teaspoon seasoning salt",
+            "1 cup cold water"
+          ],
+          "directions": [
+            " For marinade base, place the onions, garlic and 1/2 cup cider vinegar in a blender and puree. Place puree in mixing bowl. Add the mustard, white pepper, garlic power, sugar & salt. Beat in oil with mixer at medium speed, then gradually add the additional 3/4 cup vinegar, mixing thoroughly.",
+            "To the base add the marinade spices and water. Blend thoroughly. Makes about 1 quart, enough for 2-2 pound chickens.",
+            "To cook, immerse split chicken or chicken parts briefly in the marinade (about 20 minutes, but I have marinaded over night too) Place chicken on sheet pan and bake in 350 degree oven. 1 chicken split will take 1 to 1 1/2 hours. Chicken parts will take 45 minutes to 1 hour."
+          ],
+          "morepics": [
+            "https://www.kindmeal.my/photos/recipe/96/96421-13472-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/76/76008-8613-m.jpg",
+            "https://www.kindmeal.my/photos/recipe/48/48260-5093-m.jpg"
+          ],
+          "bannerII": "https://www.kindmeal.my/images/ads/banner_advertising-1100x280.png"
+        }
+      ]
+}
